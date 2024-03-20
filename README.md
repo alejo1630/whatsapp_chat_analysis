@@ -1,4 +1,4 @@
-# Whatsapp Chat Analysys
+# Whatsapp Chat Analysis
 
 A Jupyter Notebook with the analysis for a Whatsapp Chat using several techniques of data wrangling, EDA and Sentiment Analysis 
 
