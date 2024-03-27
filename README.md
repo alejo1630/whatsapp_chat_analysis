@@ -58,7 +58,7 @@ Several questions were answered using the dataset information.
 #### *Count of Words*
 <img src = "https://raw.githubusercontent.com/alejo1630/whatsapp_sentiment/main/Images/9.png" width = "700">
 
-#### *WordClud*
+#### *WordCloud*
 
 *Both Users*
 
